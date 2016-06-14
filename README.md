@@ -1,4 +1,4 @@
-Hi! This is my portfolio!!!
+**Hi! This is my portfolio!!!**
 
 Web technologies used:
 -HTML5.
@@ -10,7 +10,7 @@ Web technologies used:
 -Babel.
 -Angular 1.5 (Ui router).
 -Angular bootstrap.
--Yeoman.
+-Yeoman (Gulp-angular generator).
 -Gulp.
 -Bower.
 -Nodejs.
